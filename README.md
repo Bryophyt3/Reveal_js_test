@@ -8,3 +8,6 @@ The course is hosted at http://annaken.github.io/intro_to_git_course
 ---
 Instructions for this learning project:
 https://annaken.github.io/hosting-revealjs-presentation-github-pages/
+
+Presentation example:
+http://annaken.github.io/intro_to_git_course/#/1
