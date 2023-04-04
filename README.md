@@ -11,3 +11,7 @@ https://annaken.github.io/hosting-revealjs-presentation-github-pages/
 
 Presentation example:
 http://annaken.github.io/intro_to_git_course/#/1
+
+---
+Link to my slideshow from this repo:
+http://Bryophyt3.github.io/Reveal_js_test
