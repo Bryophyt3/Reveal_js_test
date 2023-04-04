@@ -14,4 +14,4 @@ http://annaken.github.io/intro_to_git_course/#/1
 
 ---
 Link to my slideshow from this repo:
-http://Bryophyt3.github.io/Reveal_js_test
+http://Bryophyt3.github.io/Reveal_js_test/#/1
